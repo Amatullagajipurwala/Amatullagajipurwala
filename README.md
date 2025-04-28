@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amatulla</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Flutter, React, Node.js**
+- **
 
 - 💬 Ask me about **anything**
 
