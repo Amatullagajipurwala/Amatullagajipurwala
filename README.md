@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amatulla</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
-- **
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **amatullagajipurwala@gmail.com**
